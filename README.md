@@ -1,5 +1,5 @@
 # cloudkey-letsencrypt
-Guide to implement Letsencrypt on Unifi Cloud Key Gen2 Firmware v.2.0.24
+Guide to implement Letsencrypt on Unifi Cloud Key Gen2 (on Firmware v.2.0.24)
 
 # Steps
 1. Follow the detailed procedure written by James Ridgway here https://www.jamesridgway.co.uk/auto-renewing-ssl-certificate-unifi-cloud-key-lets-encrypt-cloudflare-dns-validation/
