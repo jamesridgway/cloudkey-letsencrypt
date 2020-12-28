@@ -2,9 +2,9 @@
 Guide to implement Letsencrypt on Unifi Cloud Key Gen2 Firmware v.2.0.24
 
 # Steps
-1. Follow the well detailed procedure written by James Ridgway here https://www.jamesridgway.co.uk/auto-renewing-ssl-certificate-unifi-cloud-key-lets-encrypt-cloudflare-dns-validation/
+1. Follow the detailed procedure written by James Ridgway here https://www.jamesridgway.co.uk/auto-renewing-ssl-certificate-unifi-cloud-key-lets-encrypt-cloudflare-dns-validation/
 
-2. Make sure to use the adapted script in this repository
+2. Make sure to use the adapted script in this repository (original from Gerd Naschenweng https://www.naschenweng.info/2017/01/06/securing-ubiquiti-unifi-cloud-key-encrypt-automatic-dns-01-challenge/)
 
 3. Use this command instead of his one (substitute YOUR.DOMAIN.COM with your actual domain): 
 ```bash
